@@ -11,6 +11,8 @@
 
     <modules>
         <module>user</module>
+        <module>location</module>
+        <module>api-gateway</module>
     </modules>
 
     <properties>
